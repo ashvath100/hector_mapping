@@ -1,2 +1,2 @@
 # hector_mapping
-Static hector mapping using scance sweep lidar 
+Hector mapping using scancesweep lidar without odometry  
