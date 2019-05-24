@@ -1,2 +1,2 @@
 # hector_mapping
-static hector mapping using scance sweep lidar 
+Static hector mapping using scance sweep lidar 
